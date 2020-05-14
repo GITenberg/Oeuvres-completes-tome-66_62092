@@ -1,0 +1,26 @@
+_repo: Oeuvres-completes-tome-66_62092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sterne, Laurence
+    alias: Yorick, Mr.
+    birthdate: 1713
+    deathdate: 1768
+    gutenberg_agent_id: '419'
+    url: http://www.gutenberg.org/2009/agents/419
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Laurence_Sterne
+    - https://fr.wikipedia.org/wiki/Laurence_Sterne
+description: ''
+gutenberg_issued: '2020-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62092'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Oeuvres complètes, tome 6/6
+url: http://www.gutenberg.org/ebooks/62092
